@@ -1,0 +1,43 @@
+Esta página deberá tener los siguientes elementos:
+a) Objetivo del sitio:
+General
+Objetivo específico 1
+Objetivo específico 2
+Objetivo específico 3
+b)Materiales:
+Coloque el nombre del material que usara para crear los contenidos de la
+sección y el enlace de descarga de los mismos sean estos Texto, Imágenes,
+Audios o Vídeos.
+c) Contenido:
+Redacte un borrador del contenido de lectura en formato de texto que tendrá
+la sección: (Sea este la presentación de la sección, el contenido o ambos;
+redacte un borrador del texto que publicara como contenido en la sección
+coloque un subtítulo para identificar si corresponde a la presentación de la
+sección o el contenido de lectura de la sección)
+
+También
+
+el estudiante creará una maquetación o Mockup de la página
+principal o index del sitio web a través de alguna de las herramientas
+de creación de Mockups dispuestas en el siguiente listado.:
+Frame Box: http://framebox.org/
+Wireframe.cc: https://wireframe.cc/
+Iphone Mockup: http://iphonemockup.lkmc.ch/
+Mockflow: https://www.mockflow.com/
+Moqups: https://moqups.com/
+Balsamiq Mockups: https://balsamiq.com/products/mockups/
+Para esta actividad el estudiante deberá publicar una página web
+llamada planing.html con la información acerca de los temas que va
+a desarrollar en el sitio web. La página deberá estar construida con
+etiquetas básicas de HTML5 (no es necesario darle estilo).
+Descargue la imagen o tome pantallazo del mockup con la
+herramienta recorte e inserte la imagen en la página planing.html.
+En la página index.html creada en la fase anterior coloque un vínculo
+a la página planing.html
+Sincronice su carpeta local del sitio web, con el repositorio en GitHub
+y publique el sitio con GitHub Page.
+Para publicar en gitHub Page ingrese a su repositorio a través del
+navegador. Seleccionar la opción Setting, luego buscar GitHub
+Pages, en source seleccionar Master Branch, Luego buscas de nuevo
+la sección GitHub Pages.  ́Copiar el enlace que aparece en:
+
